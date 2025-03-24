@@ -44,7 +44,7 @@ To use this script, you need a Google Places API key:
 5. **Restrict Your API Key** (Recommended)
    - In the credentials page, find your key and click "Edit"
    - Under "Application restrictions," choose "HTTP referrers" or "IP addresses" as appropriate
-   - Under "API restrictions," restrict the key to only the Places API
+   - Under "API restrictions," restrict the key to only the `Places API` (The default will be `Places API (New)`, ensure `Places API` is also selected)
    - Click "Save"
 
 ## Setup and Usage
